@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zelda/Jupyter Documents/PPT/tensor1.4/projector/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "/home/zelda/Jupyter Documents/PPT/tensor1.4/projector/projector/a_model.ckpt-1001"

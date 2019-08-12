@@ -1,2 +1,9 @@
-# tensor
-Some code to learn tensorflow
+# tensorflow
+
+包括1.14版本和2.0版本
+
+年少无知坑坑洼洼的简单实践
+
+竟然还拿着这个去讲ppt了
+
+hhh,好丢人哦
